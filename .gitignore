@@ -5,6 +5,7 @@ __pycache__/
 # C extensions
 *.so
 
+myenv
 # Distribution / packaging
 .Python
 env/
@@ -87,3 +88,4 @@ target/
 
 # Mypy cache
 .mypy_cache/
+/data
